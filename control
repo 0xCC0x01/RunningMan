@@ -1,0 +1,9 @@
+Package: com.cc.runningman
+Name: RunningMan
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A Wechat step count tweak.
+Maintainer: 0xCC
+Author: 0xCC
+Section: Tweaks
